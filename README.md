@@ -1,6 +1,5 @@
 # C# Design Patterns
 
-![C# Design Patterns][lil-thumbnail-url] 
 Design patterns are an important part of programming. Rather than programming solutions to every issue from scratch, developers can implement these patterns that solve common problems. In this course, instructor Richard Goforth explains the purpose and effective use of key design patterns in C#. Why design patterns make sense, what they are, and how they are grouped and categorized.Overview of the creational, behavioral, and structural Gang of Four design patterns and how they are applied in C# and .NET. Next, he takes a deeper dive into the Iterator, Factory Method, and Adapter patterns, providing hands-on challenges that help you master the application of these patterns in your own code.
 
 There are four applicaitons in this repository.  Three applications are simple console application pattern examples, in the folders Iterator, Adapter, and Factory.
